@@ -49,5 +49,6 @@ Mobile Application Development: Develop a mobile application for on-the-go barco
 
 Integration with Warehouse Management Systems: Integrate with existing warehouse management systems for seamless data exchange.
 
-# Contributing
-Contributions to this project are welcome. Please follow the guidelines outlined in the CONTRIBUTING.md file.
+# Contact
+email : computervision9999@gmail.com
+whatsapp: +8489833630884898336308
