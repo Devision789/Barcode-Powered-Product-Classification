@@ -31,7 +31,7 @@ Inventory Management: Access and update inventory information, including product
 Product Search: Retrieve products based on barcode scans or product details.
 # Installion
 1. Clone my repo
-2. Download model best.pt or add your model trained
+2. Download model qrcode.pt or add your model trained
 3. pip install requirements.txt
 4. run scripts main.py
 
