@@ -51,4 +51,3 @@ Integration with Warehouse Management Systems: Integrate with existing warehouse
 
 # Contact
 email : computervision9999@gmail.com
-whatsapp: +8489833630884898336308
